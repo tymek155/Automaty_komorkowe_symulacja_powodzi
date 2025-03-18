@@ -23,6 +23,16 @@ klasą zliczającą punkty sąsiadujące dla danego punktu (wykorzystywana do sy
 aktualizującej stan mapy bazująć na liczbie sąsiadów zalanych (odpowiednie reguły znajdują się w kodzie), `opady` 
 dodającej losowe punkty zalania, symulując w ten sposób lokalne opady, `tornado`, `obniz_teren`, `tama` służących 
 do interaktywnej modyfikacji terenu przez użytkownika oraz `main`, gdzie zaprojektowne jest całe GUI dla użytkownika
+
+![image](https://github.com/user-attachments/assets/c51a9ac7-8731-4f13-b775-b31734522da2)
+
+![image](https://github.com/user-attachments/assets/049eda56-4224-4518-9c55-af12752b7857)
+![image](https://github.com/user-attachments/assets/d75acb3e-0ed0-4bbf-9b01-525c0e41ea7f)
+![image](https://github.com/user-attachments/assets/472fb73c-4b95-40b2-8ebb-9e2e1293166c)
+![image](https://github.com/user-attachments/assets/0dba8ab9-d375-4dad-af3d-46b95a5b7784)
+
+
+
 w postaci przycisków oraz listy rozwijanej, znajduje się tam także cała logika symulacji i jej ciągłej aktualizacji 
 oraz obsługa interakcji.
 

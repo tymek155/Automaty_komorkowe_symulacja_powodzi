@@ -11,8 +11,8 @@ W kodzie użyto:
 * Python 3.12
 * NumPy 2.2.2
 * Pygame 2.6.0
-* PIL
-* pygame_gui
+* PIL 11.0.0
+* pygame_gui 0.6.12
 	
 # Wykorzystanie
 Kod był uruchamiany i napisany w środowisku PyCharm. Struktura kodu składa się 
